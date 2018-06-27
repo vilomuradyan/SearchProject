@@ -7,7 +7,7 @@ import android.view.Menu;
 
 public class MainActivity extends AppCompatActivity {
 
-    Toolbar toolbar;
+  public Toolbar toolbar;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
